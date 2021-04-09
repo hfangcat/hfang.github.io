@@ -6,7 +6,7 @@ author_profile: true
 ---
 <br>
 <b>[Brain Surface Reconstruction from MRI Images Based on Segmentation Networks Applying Signed Distance Maps](http://hfangcat.github.io/publications/ISBI2021)</b> <br>
-<b>Heng Fang</b>, Xi Yang, Taichi Kin, Takeo Igarashi
+<b>Heng Fang</b>, Xi Yang, Taichi Kin, Takeo Igarashi.
 <i>IEEE International Symposium on Biomedical Imaging (ISBI) 2021, April 13-16, 2021</i>.
 
 <!-- <b>[Understanding self-supervised learning with dual deep networks](http://lantaoyu.com/publications/SSLTheory)</b> <br>
