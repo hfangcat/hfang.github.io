@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Computer Science Department, Stanford University<br>
-Gates 158, 353 Serra Mall, Stanford, CA 94305<br>
-Email: lantaoyu [at] cs.stanford.edu
+Department of Robotics, Perception and Learning (RPL), KTH Royal Institute of Technology<br> 
+Teknikringen 14, Plan 6,7, 114 28 Stockholm, Sweden<br>
+Email: hfang [at] kth.se
 
