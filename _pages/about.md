@@ -22,9 +22,9 @@ redirect_from:
 * I received my Bachelor’s Degree in [Chien-Shiung Wu College](https://wjx.seu.edu.cn/wjxen/), [Southeast University](https://www.seu.edu.cn/english/). My undergraduate research supervisor is Prof. [Chuan Zhang](https://www.researchgate.net/profile/Chuan-Zhang-6).
 
 # Recent News
-* (Mar 2021) Happy to be selected as a volunteer of [AISTATS 2021](https://aistats.org/aistats2021/)! See you in the RocketChat!
-* (Mar 2021) I started my Ph.D. journey.
-* (Jan 2021) Our paper was accepted by [IEEE International Symposium on Biomedical Imaging (ISBI) 2021](https://biomedicalimaging.org/2021/)!
+* [Mar 2021] Happy to be selected as a volunteer of [AISTATS 2021](https://aistats.org/aistats2021/)! See you in the RocketChat!
+* [Mar 2021] I started my Ph.D. journey.
+* [Jan 2021] Our paper was accepted by [IEEE International Symposium on Biomedical Imaging (ISBI) 2021](https://biomedicalimaging.org/2021/)!
 
 # Publications
 * **Heng Fang**, Xi Yang, Taichi Kin, Takeo Igarashi, “Brain Surface Reconstruction from MRI Images Based on Segmentation Networks Applying Signed Distance Maps”, IEEE International Symposium on Biomedical Imaging (ISBI) 2021, April 13-16, 2021.
