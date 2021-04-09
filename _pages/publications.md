@@ -1,14 +1,15 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)"
+# title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 <br>
-<b>[Adversarial Inverse Reinforcement Learning with Self-attention Dynamics Model](http://lantaoyu.com/publications/RAL21)</b> <br>
-Jiankai Sun, <b>Lantao Yu</b>, Pinqian Dong, Bo Lu, Bolei Zhou.
-<i>IEEE Robotics and Automation Letters</i>. <b>RA-L 2021</b> and <b>ICRA 2021</b>.
+<b>[Brain Surface Reconstruction from MRI Images Based on Segmentation Networks Applying Signed Distance Maps](http://hfangcat.github.io/publications/ISBI2021)</b> <br>
+<b>Heng Fang</b>, Xi Yang, Taichi Kin, Takeo Igarashi
+<i>IEEE International Symposium on Biomedical Imaging (ISBI) 2021, April 13-16, 2021</i>.
 
-<b>[Understanding self-supervised learning with dual deep networks](http://lantaoyu.com/publications/SSLTheory)</b> <br>
+<!-- <b>[Understanding self-supervised learning with dual deep networks](http://lantaoyu.com/publications/SSLTheory)</b> <br>
 Yuandong Tian, <b>Lantao Yu</b>, Xinlei Chen, Surya Ganguli.
 <i>Preprint. arXiv:2010.00578</i>
 
@@ -80,7 +81,7 @@ Xuejian Wang\*, <b>Lantao Yu</b>\*, Kan Ren, Guanyu Tao, Weinan Zhang, Yong Yu, 
 <b>Lantao Yu</b>, Weinan Zhang, Jun Wang, and Yong Yu.
 <i>The 31st AAAI conference on Artificial Intelligence</i>. <b>AAAI 2017</b>.
 
-
+ -->
 
 
 
