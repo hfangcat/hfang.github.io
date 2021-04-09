@@ -9,15 +9,41 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://hfangcat.github.io/files/heng.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 # About Me
-* I am a Ph.D. student in the [Computer Science Department](https://cs.stanford.edu/) at [Stanford University](https://www.stanford.edu/), advised by Prof. [Stefano Ermon](https://cs.stanford.edu/~ermon/). [[Curriculum Vitae](http://lantaoyu.com/files/lantaoyu_cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)]
-* My research interests lie in the general area of machine learning, particularly in deep learning, reinforcement learning and probabilistic graphical models, as well as their applications in sequential decision making, generative modeling, multi-task and meta-learning and multi-agent systems.
-* I received my Bachelor’s Degree in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). My undergraduate research advisors are Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), Prof. [Weinan Zhang](http://wnzhang.net/) and Prof. [Jun Wang](http://www0.cs.ucl.ac.uk/staff/jun.wang/).
+* I am a Ph.D. student in the [Department of Robotics, Perception and Learning (RPL)](https://www.kth.se/is/rpl/division-of-robotics-perception-and-learning-1.779439) at [KTH Royal Institute of Technology](https://www.kth.se/en), advised by Prof. [Hossein Azizpour](https://scholar.google.se/citations?user=t6CRgJsAAAAJ&hl=en) and Prof. [Josephine Sullivan](https://scholar.google.com/citations?user=REbc02cAAAAJ&hl=en). 
 
+* My research interests lie in the general area of machine learning, particularly in deep learning, temporal modeling and uncertainty estimation, as well as their applications in satellite imagery and biomedical scenarios.
+
+* I also work closely with Prof. [Takeo Igarashi](https://scholar.google.com/citations?user=2LJJtI8AAAAJ&hl=en) and Prof. [Xi Yang](https://keepthinkingyx.github.io/Xi-Yang/) at [the University of Tokyo](https://www.u-tokyo.ac.jp/en/) on the project of 3D reconstruction and medical image processing.
+
+* I received my Bachelor’s Degree in [Chien-Shiung Wu College](https://wjx.seu.edu.cn/wjxen/), [Southeast University](https://www.seu.edu.cn/english/). My undergraduate research supervisor is Prof. [Chuan Zhang](https://www.researchgate.net/profile/Chuan-Zhang-6).
+
+# Recent News
+* (03/2021) Happy to be selected as a volunteer of [AISTATS 2021](https://aistats.org/aistats2021/)! See you in the RocketChat!
+* (03/2021) I started my Ph.D. journey.
+* (01/2021) Our paper was accepted by [IEEE International Symposium on Biomedical Imaging (ISBI) 2021](https://biomedicalimaging.org/2021/)!
+
+# Publications
+* **Heng Fang**, Xi Yang, Taichi Kin, Takeo Igarashi, “Brain Surface Reconstruction from MRI Images Based on Segmentation Networks Applying Signed Distance Maps”, IEEE International Symposium on Biomedical Imaging (ISBI) 2021, April 13-16, 2021.
 
 # Academic Services
-* Conference Reviewer: AAAI 2019, AAAI 2020, ICML 2020 (top reviewer award), NeurIPS 2020, AAAI 2021, ICLR 2021, AISTATS 2021, ICRA 2021, ICML 2021.
-* Journal Reviewer: Journal of Artificial Intelligence Research (JAIR), IEEE Robotics and Automation Letters (RA-L).
+* Conference Reviewer: ISBI 2021.
+
+# Internship
+* Deepwise (November 2020 - January 2021)
+- Machine Learning Engineering Intern, AI Lab
+- Domain Adaptation
+- Predict pediatric pneumonia by training models on adults’ X-Rays (with labels) and children’s X-Rays
+(without labels)
+
+* Alibaba Group (June 2019 - August 2019)
+- Data Analyst Intern, Apsara Stack, Alibaba Cloud
+- Data management, visualization, integration, analysis, modeling, and prediction
+- Demand and resource utilization monitoring
+
+# Selected Award
+* JASSO Scholarship (2019)
+* CSC International Exchange Scholarship (2017)
