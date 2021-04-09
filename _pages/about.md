@@ -30,7 +30,7 @@ redirect_from:
 * **Heng Fang**, Xi Yang, Taichi Kin, Takeo Igarashi, “Brain Surface Reconstruction from MRI Images Based on Segmentation Networks Applying Signed Distance Maps”, IEEE International Symposium on Biomedical Imaging (ISBI) 2021, April 13-16, 2021.
 
 # Academic Services
-* Conference Reviewer: ISBI 2021.
+* Conference Reviewer: ISBI 2021, ML Reproducibility Challenge 2020.
 
 # Internships
 * Deepwise (November 2020 - January 2021)
