@@ -17,7 +17,7 @@ redirect_from:
 
 * My research interests lie in the general area of machine learning, particularly in deep learning, temporal modeling and uncertainty estimation, as well as their applications in satellite imagery and biomedical scenarios.
 
-* I also work closely with Prof. [Takeo Igarashi](https://scholar.google.com/citations?user=2LJJtI8AAAAJ&hl=en) and Prof. [Xi Yang](https://keepthinkingyx.github.io/Xi-Yang/) at [the University of Tokyo](https://www.u-tokyo.ac.jp/en/) on the project of 3D reconstruction and medical image processing.
+* I also work closely with Prof. [Takeo Igarashi](https://scholar.google.com/citations?user=2LJJtI8AAAAJ&hl=en), M.D. [Taichi Kin](https://www.u-tokyo.ac.jp/focus/en/people/people003717.html) and Prof. [Xi Yang](https://keepthinkingyx.github.io/Xi-Yang/) at [the University of Tokyo](https://www.u-tokyo.ac.jp/en/) on the project of 3D reconstruction and medical image processing.
 
 * I received my Bachelor’s Degree in [Chien-Shiung Wu College](https://wjx.seu.edu.cn/wjxen/), [Southeast University](https://www.seu.edu.cn/english/). My undergraduate research supervisor is Prof. [Chuan Zhang](https://www.researchgate.net/profile/Chuan-Zhang-6).
 
