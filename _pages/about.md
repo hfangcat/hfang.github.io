@@ -44,6 +44,6 @@ redirect_from:
     - Data management, visualization, integration, analysis, modeling, and prediction
     - Demand and resource utilization monitoring
 
-# Selected Award
+# Selected Awards
 * JASSO Scholarship (2019)
 * CSC International Exchange Scholarship (2017)
