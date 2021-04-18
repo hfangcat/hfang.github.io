@@ -27,7 +27,7 @@ redirect_from:
 * [Jan 2021] Our paper was accepted by [IEEE International Symposium on Biomedical Imaging (ISBI) 2021](https://biomedicalimaging.org/2021/)!
 
 # Publications
-* **Heng Fang**, Xi Yang, Taichi Kin, Takeo Igarashi, “Brain Surface Reconstruction from MRI Images Based on Segmentation Networks Applying Signed Distance Maps”, IEEE International Symposium on Biomedical Imaging (ISBI) 2021, April 13-16, 2021.
+* **Heng Fang**, Xi Yang, Taichi Kin, Takeo Igarashi, “Brain Surface Reconstruction from MRI Images Based on Segmentation Networks Applying Signed Distance Maps”, IEEE International Symposium on Biomedical Imaging (ISBI) 2021, April 13-16, 2021. [[paper]](https://arxiv.org/abs/2104.04291)
 
 # Academic Services
 * Conference Reviewer: ISBI 2021, ML Reproducibility Challenge 2020.
